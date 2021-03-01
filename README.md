@@ -11,3 +11,5 @@ canvas的优化 https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tuto
 全局loading css https://cssfx.netlify.app/
 
 go学习 http://c.biancheng.net/view/4034.html
+
+淘宝镜像 npm install -g cnpm --registry=https://registry.npm.taobao.org
