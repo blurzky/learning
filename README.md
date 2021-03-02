@@ -24,6 +24,11 @@ vue-property-decorator装饰器 https://www.npmjs.com/package/vue-property-decor
 
 Node-SASS安装 cnpm install --save-dev node-sass
 
+css实现超出部分显示省略号  https://www.cnblogs.com/renxiao1218/p/11215368.html
+
+canva绘制圆角矩形   https://www.cnblogs.com/pengfei25/p/11005206.html
+
+
 # vue项目结构
 |-- build                            // 项目构建(webpack)相关代码
 |   |-- build.js                     // 生产环境构建代码
