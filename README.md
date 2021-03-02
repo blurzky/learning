@@ -20,6 +20,7 @@ vue-property-decorator装饰器 https://www.npmjs.com/package/vue-property-decor
 
 视频网站 http://www.jspang.com
 
+淘宝镜像 npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 # vue项目结构
 |-- build                            // 项目构建(webpack)相关代码
