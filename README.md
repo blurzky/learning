@@ -22,6 +22,8 @@ vue-property-decorator装饰器 https://www.npmjs.com/package/vue-property-decor
 
 淘宝镜像 npm install -g cnpm --registry=https://registry.npm.taobao.org
 
+Node-SASS安装 cnpm install --save-dev node-sass
+
 # vue项目结构
 |-- build                            // 项目构建(webpack)相关代码
 |   |-- build.js                     // 生产环境构建代码
