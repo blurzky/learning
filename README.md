@@ -28,6 +28,7 @@ css实现超出部分显示省略号  https://www.cnblogs.com/renxiao1218/p/1121
 
 canva绘制圆角矩形   https://www.cnblogs.com/pengfei25/p/11005206.html
 
+react + ts  https://juejin.cn/post/6844903684422254606
 
 # vue项目结构
 |-- build                            // 项目构建(webpack)相关代码
